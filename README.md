@@ -4,7 +4,7 @@ Welcome to the NITK Health Care Center! We are dedicated to providing quality he
 
 ## About Us 🏨
 
-At NITK Health Care Center, we prioritize your health and well-being. Our team of experienced healthcare professionals is committed to delivering the best medical care and services. From general check-ups to specialized treatments, we've got you covered.
+Web app for NITK Health Care Center
 
 ## Services 🌡️
 
